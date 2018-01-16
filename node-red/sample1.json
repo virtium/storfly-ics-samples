@@ -1,0 +1,1 @@
+[{"id":"7c2bad98.7e3d3c","type":"data port","z":"f2084044.82a158","name":"","portId":"sampleInput","x":220,"y":220,"wires":[["ba0d6595.6a1238"]]},{"id":"ba0d6595.6a1238","type":"storage","z":"f2084044.82a158","streamId":"stream1","streamType":"store_json","dataBuffer":"","dataReduction":"","dataPrune":"","name":"","x":560,"y":220,"wires":[[]]}]
