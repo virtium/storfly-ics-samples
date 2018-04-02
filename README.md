@@ -1,1 +1,1 @@
-# storflyiot-samples
+# StorFly-ICS samples
